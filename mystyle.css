@@ -1,0 +1,11 @@
+body {
+    background-color: blueviolet;
+}
+
+.header{
+    background-color: green;
+    display:flex;
+    justify-content: space-between;
+    z-index: 1000;
+    align-items: center;
+}
